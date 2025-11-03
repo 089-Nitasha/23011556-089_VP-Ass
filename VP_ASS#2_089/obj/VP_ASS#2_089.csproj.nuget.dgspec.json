@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VP\\23011556-089(VP_Ass2)\\VP_ASS#2_089\\VP_ASS#2_089\\VP_ASS#2_089.csproj": {}
+  },
+  "projects": {
+    "D:\\VP\\23011556-089(VP_Ass2)\\VP_ASS#2_089\\VP_ASS#2_089\\VP_ASS#2_089.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VP\\23011556-089(VP_Ass2)\\VP_ASS#2_089\\VP_ASS#2_089\\VP_ASS#2_089.csproj",
+        "projectName": "VP_ASS#2_089",
+        "projectPath": "D:\\VP\\23011556-089(VP_Ass2)\\VP_ASS#2_089\\VP_ASS#2_089\\VP_ASS#2_089.csproj",
+        "packagesPath": "C:\\Users\\Eden Computers\\.nuget\\packages\\",
+        "outputPath": "D:\\VP\\23011556-089(VP_Ass2)\\VP_ASS#2_089\\VP_ASS#2_089\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eden Computers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
